@@ -13,3 +13,6 @@ y =24
 
 d = x + y
 
+path = 'D:\banji\folder\file'.replace('\\', '\\'*2)
+
+print(path)
