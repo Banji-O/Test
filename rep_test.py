@@ -8,6 +8,8 @@ total = sum(number1, number2)
 
 print(f"The sum of the two numbers is: {total}")
 
+x = 4
+y =24
 
-
+d = x + y
 
