@@ -6,6 +6,11 @@ if hungry in ['yes','Yes', 'YES']:
 else:
     print(f"have a nice day")
     
-    
-food = ['yam', 'bread', 'fufu', 'spag']
+thirsty = str(input('are you thirsty?'))
+
+if thirsty in ['yes', 'Yes', 'YES']:
+    print('drink water')
+else: 
+    print('have a nice day')
+
 
