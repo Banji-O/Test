@@ -1,7 +1,7 @@
 
 hungry = input("are you hungry? ")
 
-if hungry in ['yes','Yes', 'YES']:
+if hungry in ['yes','Yes', 'YES'] or hungry == y:
     print(f'eat rice')  
     print('eat fries')
     print('eat pizza')  
