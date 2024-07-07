@@ -10,7 +10,8 @@ thirsty = str(input('are you thirsty?'))
 
 if thirsty in ['yes', 'Yes', 'YES']:
     print('drink water')
+elif None:
+    print(f'drink chilled soda')    
 else: 
     print('have a nice day')
-
-
+    
