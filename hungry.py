@@ -22,4 +22,4 @@ else:
        
 food = ['yam', 'bread', 'fufu', 'spag']
 
-drink = ['juice', 'palm wine', 'simon']
+drink = ['juice', 'palm wine', 'simon', 'pepsi', 'teem']
