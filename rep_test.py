@@ -16,3 +16,7 @@ d = x + y
 path = 'D:\banji\folder\file'.replace('\\', '\\'*2)
 
 print(path)
+
+x, y, z = 4, 24, 30
+
+print(f'z = {z}')
